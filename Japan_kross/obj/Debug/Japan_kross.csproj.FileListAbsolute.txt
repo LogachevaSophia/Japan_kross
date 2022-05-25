@@ -1,0 +1,10 @@
+C:\Users\Софийкина\Desktop\ПОЛИТЕХ\дз\Процедурное программирование\2 сем\Japan_kross\bin\Debug\Japan_kross.exe.config
+C:\Users\Софийкина\Desktop\ПОЛИТЕХ\дз\Процедурное программирование\2 сем\Japan_kross\bin\Debug\Japan_kross.exe
+C:\Users\Софийкина\Desktop\ПОЛИТЕХ\дз\Процедурное программирование\2 сем\Japan_kross\bin\Debug\Japan_kross.pdb
+C:\Users\Софийкина\Desktop\ПОЛИТЕХ\дз\Процедурное программирование\2 сем\Japan_kross\obj\Debug\Japan_kross.csprojAssemblyReference.cache
+C:\Users\Софийкина\Desktop\ПОЛИТЕХ\дз\Процедурное программирование\2 сем\Japan_kross\obj\Debug\Japan_kross.Form1.resources
+C:\Users\Софийкина\Desktop\ПОЛИТЕХ\дз\Процедурное программирование\2 сем\Japan_kross\obj\Debug\Japan_kross.Form2.resources
+C:\Users\Софийкина\Desktop\ПОЛИТЕХ\дз\Процедурное программирование\2 сем\Japan_kross\obj\Debug\Japan_kross.Properties.Resources.resources
+C:\Users\Софийкина\Desktop\ПОЛИТЕХ\дз\Процедурное программирование\2 сем\Japan_kross\obj\Debug\Japan_kross.csproj.GenerateResource.cache
+C:\Users\Софийкина\Desktop\ПОЛИТЕХ\дз\Процедурное программирование\2 сем\Japan_kross\obj\Debug\Japan_kross.exe
+C:\Users\Софийкина\Desktop\ПОЛИТЕХ\дз\Процедурное программирование\2 сем\Japan_kross\obj\Debug\Japan_kross.pdb
